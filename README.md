@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aayushsimform
 - 👀 I’m interested in making products
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m MEAN Stack Developer
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
